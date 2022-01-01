@@ -1,0 +1,47 @@
+{
+"exuviae" : 
+    {
+       "title":"exuviae", 
+       "year":"2021", 
+       "materials":"Inkjet on tissue, Resin, House Plant, Soil, Clay Pot, Shelf.",
+       "briefDescription":"This project is a sculpture in which part of a plant is wrapped in a layer of plastic that contains a digital print of itself. As the plant dies, the plastic exoskeleton that was once an infrastructure to accommodate maintaining the image of the plant becomes the structural core of the object.",
+       "exhibitionHistory":"Ran Vijay",
+       "thumbnail":"/projects/exuviae/headerback.jpg",
+       "headerBackground":"/projects/exuviae/headerback.jpg",
+       "detailShots":["/projects/exuviae/detail.jpg"]
+    },
+"highwayscene" :
+    {
+        "title":"Highway Scene", 
+        "year":"2021", 
+        "materials":"Video",
+        "briefDescription":"Highway Scene is a video where 1 minute of driving has been interpolated using a machine learning algorithm into a 30 minute slow motion video. Throughout the video subtle artifacts reveal discontinuities between how the algorithm conceptualizes continuity as a feature of images vs how continuity is conceptualized by an embodied experience.     Inspired by the video sequences shot during Learning from Las Vegas and its lineage to Ed Rusha’s Every Building on the Sunset Strip, Highway Scene repositions this inquiry of how the chimeric gaze from automobiles augments the scale and tempo of urban scenes onto the contemporary post-human image infrastructure.",
+        "exhibitionHistory":"Ran Vijay",
+        "thumbnail":"/projects/highwayscene/headerback.png",
+        "headerBackground":"/projects/highwayscene/headerback.png",
+        "detailShots":["/projects/highwayscene/detail.png"]
+
+     },
+"poemaboutplace" : 
+     {
+        "title":"Poemabout.place", 
+        "year":"2020", 
+        "materials":"Website",
+        "briefDescription":"When a user visits poemabout.place, a Euclidean path is created between the user’s location and the location of the server that hosts the web app. The website then sequentially displays a seamless video of slides generated from text gathered from other websites along this route. The project traces geographies to explore the intake of information on the web; instead of confirming relations of content, or subject matter, as in navigation through hyperlinks; the celebrated as a unique epistemic form allowed by the Internet. We propose that every encounter with digital information, every “search” around a location is local; yet, fundamentally the product of the internet as a de-localizing tool. What poems map between the embodied and the networked subjectivity? What reading constitutes understanding in the chimera of semiotic and epistemic systems?    This project is conceptualized in a collaboration with Marina Resende Santos.",
+        "exhibitionHistory":"Ran Vijay",
+        "thumbnail":"/projects/poemaboutplace/headerback.jpg",
+        "headerBackground":"/projects/poemaboutplace/headerback.jpg",
+        "detailShots":["/projects/poemaboutplace/detail.jpg"]
+     },
+"field_interactions" :
+     {
+        "title":"Field Interactions", 
+        "year":"2020", 
+        "materials":"modified lcd screen",
+        "briefDescription":"Field Interactions is an installation that is set in a clearing deep in a re-nativized prairie wetland of Chicago. The LCD screen glows a cool white and the image is only constituted when it is polarized by the reflections in nearby puddles. In the pools of water viewers can see a live video feed from the NOAA Satellite showing city lights at night. Field Interactions is part of an inquiry into framing situations that resolve the contradiction in real-time image culture that proposes that the tools for servicing the cult of speed are incompatible with being located at the environment where you are. Under what conditions can an electronic image mediate both a transference over distance, and a sense of placement within an immediate environment. This piece recognizes a spatial relationship by separating the source of the image and the image.",
+        "exhibitionHistory":"Ran Vijay",
+        "thumbnail":"/projects/field_interactions/headerback.jpg",
+        "headerBackground":"/projects/field_interactions/headerback.jpg",
+        "detailShots":["/projects/field_interactions/detail.jpg"]
+     }
+ }
